@@ -1,0 +1,11 @@
+Testing Service History...
+[PASS] Booking successful
+[PASS] Booking found in history. Total items: 15
+
+Testing Insights...
+[PASS] Insights data structure valid
+   Top Failure: Brake Pad
+
+Testing UEBA Agents...
+[PASS] Retrieved 7 active agents
+   First Agent: Master Agent (Active)

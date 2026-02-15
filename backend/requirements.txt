@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+pydantic
+joblib
+google-generativeai
+python-dotenv
+websockets

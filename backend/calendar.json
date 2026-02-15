@@ -1,0 +1,147 @@
+[
+  {
+    "id": 4922,
+    "time": "2025-12-06T10:10:50.929Z",
+    "service_center": "Downtown OEM (Emergency)",
+    "technician": "Lead Specialist",
+    "issue": "CRITICAL: CRITICAL ALERT: Immediate service required. Failure risk is critical (Score: 0.90). We have prioritized a service slot for you.",
+    "priority": "Critical",
+    "source": "AI Automation"
+  },
+  {
+    "id": 2588,
+    "time": "2025-12-07T10:00:00",
+    "service_center": "Downtown OEM Center",
+    "technician": "John Doe",
+    "issue": "Critical Risk Issue"
+  },
+  {
+    "id": 4923,
+    "time": "2025-12-06T10:11:26.169Z",
+    "service_center": "Downtown OEM (Emergency)",
+    "technician": "Lead Specialist",
+    "issue": "CRITICAL: CRITICAL ALERT: Immediate service required. Failure risk is critical (Score: 0.86). We have prioritized a service slot for you.",
+    "priority": "Critical",
+    "source": "AI Automation"
+  },
+  {
+    "id": 5317,
+    "time": "2025-12-08T10:00:00",
+    "service_center": "Downtown OEM Center",
+    "technician": "John Doe",
+    "issue": "Critical Risk Issue"
+  },
+  {
+    "id": 5318,
+    "time": "2025-12-07T12:17:10.522Z",
+    "service_center": "Downtown OEM (Emergency)",
+    "technician": "Lead Specialist",
+    "issue": "CRITICAL: CRITICAL ALERT: Immediate service required. Failure risk is critical (Score: 0.85). We have prioritized a service slot for you.",
+    "priority": "Critical",
+    "source": "AI Automation"
+  },
+  {
+    "id": 5319,
+    "time": "2025-12-07T02:30",
+    "service_center": "Downtown OEM",
+    "technician": "Manual Request",
+    "issue": "brake failure",
+    "priority": "Normal",
+    "source": "Manual"
+  },
+  {
+    "id": 3662,
+    "time": "2025-12-08T10:00:00",
+    "service_center": "Downtown OEM Center",
+    "technician": "John Doe",
+    "issue": "Critical Risk Issue"
+  },
+  {
+    "id": 5320,
+    "time": "2025-12-07T12:33:03.416Z",
+    "service_center": "Downtown OEM (Emergency)",
+    "technician": "Lead Specialist",
+    "issue": "CRITICAL: CRITICAL ALERT: Immediate service required. Failure risk is critical (Score: 0.81). We have prioritized a service slot for you.",
+    "priority": "Critical",
+    "source": "AI Automation"
+  },
+  {
+    "id": 8510,
+    "time": "2025-12-08T10:00:00",
+    "service_center": "Downtown OEM Center",
+    "technician": "John Doe",
+    "issue": "High Risk Issue"
+  },
+  {
+    "id": 30666,
+    "vehicle_id": "veh_001",
+    "time": "2025-12-07T04:30:00.000Z",
+    "service_center": "Best Available Center",
+    "technician": "Auto-Assigned",
+    "issue": "Routine Maintenance",
+    "status": "Confirmed"
+  },
+  {
+    "id": 56958,
+    "vehicle_id": "veh_001",
+    "time": "2025-12-08T04:30:00.000Z",
+    "service_center": "Best Available Center",
+    "technician": "Auto-Assigned",
+    "issue": "Routine Maintenance",
+    "status": "Confirmed"
+  },
+  {
+    "id": 10082,
+    "vehicle_id": "veh_001",
+    "time": "2025-12-09T04:30:00.000Z",
+    "service_center": "Best Available Center",
+    "technician": "Auto-Assigned",
+    "issue": "Routine Maintenance",
+    "status": "Confirmed"
+  },
+  {
+    "id": 90850,
+    "vehicle_id": "test_veh_01",
+    "time": "2025-12-10T10:00:00",
+    "service_center": "Best Available Center",
+    "technician": "Auto-Assigned",
+    "issue": "Test Service",
+    "status": "Confirmed"
+  },
+  {
+    "id": 26625,
+    "vehicle_id": "test_veh_01",
+    "time": "2025-12-10T10:00:00",
+    "service_center": "Best Available Center",
+    "technician": "Auto-Assigned",
+    "issue": "Test Service",
+    "status": "Confirmed"
+  },
+  {
+    "id": 54600,
+    "vehicle_id": "test_veh_01",
+    "time": "2025-12-10T10:00:00",
+    "service_center": "Best Available Center",
+    "technician": "Auto-Assigned",
+    "issue": "Test Service",
+    "status": "Confirmed"
+  },
+  {
+    "id": 67980,
+    "vehicle_id": "veh_001",
+    "time": "2025-12-09T04:30:00.000Z",
+    "service_center": "Best Available Center",
+    "technician": "Auto-Assigned",
+    "issue": "Routine Maintenance",
+    "status": "Confirmed"
+  },
+  {
+    "id": 59721,
+    "vehicle_id": "veh_001",
+    "time": "2025-12-08T19:30:00.000Z",
+    "service_center": "Best Available Center",
+    "technician": "Auto-Assigned",
+    "issue": "Routine Maintenance",
+    "status": "Confirmed"
+  }
+]
