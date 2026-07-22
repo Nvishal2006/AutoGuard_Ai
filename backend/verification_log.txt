@@ -1,0 +1,19 @@
+--- Initializing GeminiAgent ---
+Model: models/gemini-2.0-flash
+
+--- Test 1: General Vehicle Question ---
+User: How often should I change my oil?
+Agent: The recommended oil change frequency depends on your vehicle's make, model, and the type of oil used. However, a general guideline is every 5,000 to 7,500 miles for conventional oil and up to 10,000 miles for synthetic oil. It's best to consult your vehicle's manual for the manufacturer's recommendation.
+
+
+--- Test 2: Risk Question (Expect Booking Prompt) ---
+User: My brakes are making a grinding noise and I'm worried is vehicle safe?
+Agent: The grinding noise from your brakes is a serious concern. It indicates potential damage to the brake pads or rotors, which can compromise your vehicle's braking performance and safety. Do you want to proceed with Agentic automatic booking?
+
+SUCCESS: Booking prompt detected.
+
+--- Test 3: Confirm Booking ---
+User: Yes
+Agent: Booking confirmed.
+
+SUCCESS: Booking confirmed.
